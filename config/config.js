@@ -1,0 +1,1 @@
+module.exports.SEED = 'Este_es.un*sid*dificil';
